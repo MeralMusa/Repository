@@ -1,4 +1,4 @@
-package Deneme;
+package replIt;
 import java.util.*;
 public class Ternary {
 
