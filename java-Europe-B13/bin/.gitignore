@@ -1,11 +1,4 @@
-/ArraysZombieAttack2.class
-/assignment1/
-/assignment2/
-/assignment3/
-/assignment4/
-/assignment5/
-/assignment6/
-/day10_controlFlowStatements_Part4/
+/day41_Abstraction/
 /day11_controlFlowStatements_Part5/
 /day12_controlFlowStatements_Part6/
 /day13_methods_Part1/
@@ -28,7 +21,15 @@
 /day2_printing_comments/
 /day30_WrapperClass/
 /day31_arrayList/
+/day33_ClassesPbjects_Constructures/
+/day34_Constructors_Encapsulation/
+/day35_Encapsulation/
+/day36_StaticClassMembers/
+/day37_Inhertance/
+/day38_Inheritance2/
+/day39_finalKeyword/
 /day3_variables_dataTypes/
+/day40_methodHiding_composition/
 /day4_arithmeticOperators/
 /day5_unary_assignment_relational_Operators/
 /day6_logicalOperators/
@@ -36,7 +37,4 @@
 /day8_controlFlowStatements_Part2/
 /day9_controlFlowStatements_Part3/
 /replIt/
-/ArraysDezimalToBinary.class
-/ArrraysFirstSecond.class
-/Array2dBiggestOne.class
-/day33_ClassesPbjects_Constructures/
+/day32_arrayList_part2/
