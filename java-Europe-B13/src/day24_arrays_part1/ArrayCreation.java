@@ -33,13 +33,7 @@ public class ArrayCreation {
 		int avgScore2 = (scores[0]+scores[1]+scores[2]+scores[3]+scores[4])/5;
 		
 		System.out.println(avgScore2);
-		
-		
-		
-		
-		
-		
-		
+	
 		
 		//Option-1
 		int[] numbers;
@@ -52,28 +46,11 @@ public class ArrayCreation {
 		long[] units = new long[50];
 		String words[] = new String[5];
 		
-		System.out.println(numbers[2]); //default value for int   
-		System.out.println(temp[82]);
+		System.out.println(numbers[2]); //default value for int   is 0
+		System.out.println(temp[82]);//default value for int   is 0.0
 		System.out.println(words[4]);  //default value for string is null
-		System.out.println(units[49]);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		System.out.println(units[49]);//default value for string is 0
+	
 		
 
 	}

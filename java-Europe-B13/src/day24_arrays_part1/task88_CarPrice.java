@@ -43,16 +43,6 @@ public class task88_CarPrice {
 		System.out.println("Price for selected car is " + price);
 		
 		
-		
-		
-
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
