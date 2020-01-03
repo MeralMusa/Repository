@@ -1,3 +1,4 @@
+package replIt;
 import java.util.Scanner;
 
 public class methods7PlusMinus {

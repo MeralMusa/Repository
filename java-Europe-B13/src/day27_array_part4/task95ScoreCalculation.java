@@ -1,10 +1,8 @@
 package day27_array_part4;
 
-public class task95 {
+public class task95ScoreCalculation {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		
 		int[][] scores = {
 				{68,75,54,80}, //student-0
@@ -32,6 +30,17 @@ public class task95 {
 		}
 		
 		System.out.println(sum2);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }

@@ -8,7 +8,7 @@ public class findmax2 {
 		
 		
 		
-		int[] x = {33,44,55};
+		int[] x = {33,44,55,2};
 		System.out.println(maxValue(x));		
 		// TODO Auto-generated method stub
 

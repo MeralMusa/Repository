@@ -11,7 +11,8 @@ public class task96_ConvertingTemp {
 	
 	String[] arr = str1.split("and ");
 	System.out.println( Arrays.toString(arr));
-
+	System.out.println( arr[1]);
+	System.out.println( arr[0]);
 	arr = arr[1].split(" degree");
 	
 	System.out.println( arr[1]);
@@ -25,5 +26,8 @@ public class task96_ConvertingTemp {
 	double degreeC = (degreeF - 32) * 5/9;
 	
 	System.out.println(degreeF + " degree is equal to " + Math.round(degreeC) + " celcius");
+	
+	
+	
 }
 }
